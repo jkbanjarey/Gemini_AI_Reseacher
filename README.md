@@ -1,7 +1,3 @@
-Here’s a complete and professional `README.md` page for your **Gemini-Powered Academic Research Assistant** project, based on the uploaded files:
-
----
-
 # 📚 Gemini-Powered Academic Research Assistant
 
 An interactive Streamlit web app that uses **Google's Gemini model** to help researchers find, analyze, and summarize recent academic papers from arXiv based on any query.
@@ -70,6 +66,7 @@ streamlit run app.py
 ### 🧠 Example Use Case
 
 > **Query**: *What are recent advancements in quantum machine learning?*
+
 > **Output**: A concise answer with summaries of 3–4 top papers from arXiv, pros/cons, and download links for each paper.
 
 ---
